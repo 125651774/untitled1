@@ -11,11 +11,8 @@
     <title>$Title$</title>
   </head>
   <body>
-<<<<<<< HEAD
   $END$
   111111111111111123244
-
-
   测试
   </body>
 </html>
