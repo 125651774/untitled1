@@ -11,6 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
+<<<<<<< HEAD
   $END$
   11111111111111112324444444324
   </body>
